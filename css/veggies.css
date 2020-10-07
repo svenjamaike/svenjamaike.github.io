@@ -1,0 +1,59 @@
+body{
+	margin 0;
+	font-family: candara;
+	font-size: 20px;
+	color: #342609;
+	background-color: #FDCD6D;
+
+}
+
+header{
+	background-color: #FEF3DC;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 40px;
+	color: #9C6902;
+	font-size: 70px;
+	font-family: candara;
+
+}
+
+
+main{
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 20px;
+
+}
+
+main h2{
+	font-size: 40px;
+	color: #9C6902;
+}
+
+a{
+	color: #9C6902;
+}
+a:hover{
+	color: #FBA90A;
+}
+
+main img{
+	max-width: 600px;
+	border: 10px solid #FBA90A;
+
+}
+
+footer{
+	background-color: #FEF3DC;
+	text-align: center;
+	font-size: 15px;
+	padding: 30px;
+
+
+}
+
+p.caption{
+	font-style: italic;
+	margin-top: 0;
+}
